@@ -114,4 +114,10 @@ Yearly return rate on a certain timeframe, cumulative wealth, Sharpe ratio.
 3. More comparisons among SOTA DRL under similar conditions and data sources.
 4. More research about DRL under critical market conditions (stock market crashes).
 5. In case the transaction fees might overcome the actual small gains of relatively high-frequency trading, picking the perfect timescale should be addressed more.
-6. Construct a simulated environment to do back testing, and consider connection latencies in the real world.  
+6. Construct a simulated environment to do back testing, and consider connection latencies in the real world.
+
+## External resources
+A good explanation of LSTM can be found [here](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21), and about GRU can be found [here](https://www.pluralsight.com/guides/lstm-versus-gru-units-in-rnn).
+
+A good explanation of DRL can be found on [Youtube](https://www.youtube.com/watch?v=SgC6AZss478).
+
