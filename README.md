@@ -29,6 +29,7 @@ Finally, lay down some NOTES for this repo:
 **(3) Reader Interaction:** I'll drop an update note and refresh the content table every time I jazz up this repo with fresh research tutorials. Feel free to ask questions, have discussions, and recommend new papers by creating an issue. 
 
 ## Tutorial Overview
+
 <table>
   <tr>
     <th>Category</th>
@@ -74,6 +75,25 @@ Finally, lay down some NOTES for this repo:
     <td>2020</td>
     <td>ICDM</td>
     <td>The article highlights time series discords as a popular method for practitioners due to its simplicity. It introduces MERLIN, an algorithm that can efficiently and exactly find discords of all lengths in massive time series archives. </td>
+  </tr>
+  <tr>
+    <td rowspan="3">Series-ly Mathematical</td>
+    <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/The%20Ultimate%20Guide%20to%20Fourier%20Transform.md">The Ultimate Guide to Fourier Transform: Learn from Scratch to Pro</td>
+    <td>2023</td>
+    <td>Homemade</td>
+    <td>In this tutorial, I will be covering all the fundamental content of Fourier Series, including all the mathematical proofs you need to understand how Fourier Transform works. </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Mahalanobis%20distance.md"> Mahalanobis distance in finance</td>
+    <td>2023</td>
+    <td>Homemade</td>
+    <td>The measure of the financial turbulence index is based on the Mahalanobis distance. Check this out. </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/VAE.md"> Decoding Variational Autoencoders: Exploring the Mathematical Foundations</td>
+    <td>2023</td>
+    <td>Homemade</td>
+    <td>This article introduces the fundamental concepts of variational autoencoder (VAE) from a probability model perspective. </td>
   </tr>
 </table>
 
