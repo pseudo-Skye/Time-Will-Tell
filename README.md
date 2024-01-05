@@ -40,57 +40,57 @@ Finally, lay down some NOTES for this repo:
   </tr>
   <tr>
     <td rowspan="3">Financial Trading</td>
-    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/A%20Review%20of%20Deep%20Reinforcement%20Learning%20in%20Quantitative%20Algorithmic%20Trading.md">Review: Deep Reinforcement Learning in Quantitative Algorithmic Trading</td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/A%20Review%20of%20Deep%20Reinforcement%20Learning%20in%20Quantitative%20Algorithmic%20Trading.md">Review: Deep Reinforcement Learning in Quantitative Algorithmic Trading </a> </td>
     <td>2021</td>
     <td>ArXiv</td>
     <td>This article reviews progress made so far of AI in automated low-frequency quantitative stock trading. Focus on trading agents created with deep reinforcement learning. </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/Python%20library%20FinRL.md"> FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance </td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/Python%20library%20FinRL.md"> FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance  </a></td>
     <td>2021</td>
     <td>ICAIF</td>
     <td>FinRL is a powerful deep RL library designed to make quantitative finance and stock trading accessible to beginners while providing advanced capabilities for experienced practitioners.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/StockFormer.md"> StockFormer: Learning Hybrid Trading Machines with Predictive Coding </td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/StockFormer.md"> StockFormer: Learning Hybrid Trading Machines with Predictive Coding  </a></td>
     <td>2023</td>
     <td>IJCAI</td>
     <td>StockFormer is a hybrid trading machine that combines predictive coding and RL techniques to model multiple time series data in stock trading. </td>
   </tr>
   <tr>
     <td rowspan="3">Anomaly Detection</td>
-    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/anomaly%20detection/Anomaly%20in%20TSAD%20Evaluation.md">The 'Anomaly' in TSAD Evaluation: How We’ve Been Getting It Wrong</td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/anomaly%20detection/Anomaly%20in%20TSAD%20Evaluation.md">The 'Anomaly' in TSAD Evaluation: How We’ve Been Getting It Wrong </a></td>
     <td>2022</td>
     <td>AAAI, KDD</td>
     <td>The existing evaluation metrics for time series anomaly detection algorithms have limitations that can lead to misleading results. In this article, we will discuss the limitations of existing evaluation metrics and introduce the new evaluation metrics that address these limitations from the most recent publications. </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/anomaly%20detection/TFAD%20(CIKM%2022).md"> TFAD: A Decomposition Time Series Anomaly Detection Architecture with Time-Frequency Analysis</td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/anomaly%20detection/TFAD%20(CIKM%2022).md"> TFAD: A Decomposition Time Series Anomaly Detection Architecture with Time-Frequency Analysis  </a></td>
     <td>2022</td>
     <td>CIKM</td>
     <td>This work uses both time and frequency domains to improve performance, and it also use techniques like data augmentation and time series decomposition to make the model work better.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/anomaly%20detection/MERLIN%20(ICDM%2020).md"> MERLIN: Parameter-Free Discovery of Arbitrary Length Anomalies in Massive Time Series Archives</td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/anomaly%20detection/MERLIN%20(ICDM%2020).md"> MERLIN: Parameter-Free Discovery of Arbitrary Length Anomalies in Massive Time Series Archives  </a></td>
     <td>2020</td>
     <td>ICDM</td>
     <td>The article highlights time series discords as a popular method for practitioners due to its simplicity. It introduces MERLIN, an algorithm that can efficiently and exactly find discords of all lengths in massive time series archives. </td>
   </tr>
   <tr>
     <td rowspan="3">Series-ly Mathematical</td>
-    <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/The%20Ultimate%20Guide%20to%20Fourier%20Transform.md">The Ultimate Guide to Fourier Transform: Learn from Scratch to Pro</td>
+    <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/The%20Ultimate%20Guide%20to%20Fourier%20Transform.md">The Ultimate Guide to Fourier Transform: Learn from Scratch to Pro  </a></td>
     <td>2023</td>
     <td>Homemade</td>
     <td>In this tutorial, I will be covering all the fundamental content of Fourier Series, including all the mathematical proofs you need to understand how Fourier Transform works. </td>
   </tr>
   <tr>
     <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Mahalanobis%20distance.md"> Mahalanobis distance in finance</td>
-    <td>2023</td>
+    <td>2023  </a></td>
     <td>Homemade</td>
     <td>The measure of the financial turbulence index is based on the Mahalanobis distance. Check this out. </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/VAE.md"> Decoding Variational Autoencoders: Exploring the Mathematical Foundations</td>
+    <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/VAE.md"> Decoding Variational Autoencoders: Exploring the Mathematical Foundations </a></td>
     <td>2023</td>
     <td>Homemade</td>
     <td>This article introduces the fundamental concepts of variational autoencoder (VAE) from a probability model perspective. </td>
