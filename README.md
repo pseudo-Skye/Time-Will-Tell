@@ -77,7 +77,7 @@ Finally, lay down some NOTES for this repo:
     <td>The article highlights time series discords as a popular method for practitioners due to its simplicity. It introduces MERLIN, an algorithm that can efficiently and exactly find discords of all lengths in massive time series archives. </td>
   </tr>
   <tr>
-    <td rowspan="3">Series-ly Mathematical</td>
+    <td rowspan="4">Series-ly Mathematical</td>
     <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/The%20Ultimate%20Guide%20to%20Fourier%20Transform.md">The Ultimate Guide to Fourier Transform: Learn from Scratch to Pro  </a></td>
     <td>2023</td>
     <td>Homemade</td>
@@ -95,9 +95,17 @@ Finally, lay down some NOTES for this repo:
     <td>Homemade</td>
     <td>This article introduces the fundamental concepts of variational autoencoder (VAE) from a probability model perspective. </td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Score%20matching.md"> Decoding the Logic of Score Matching: An Energy-Based Solution </a></td>
+    <td>2024</td>
+    <td>Homemade</td>
+    <td>This article introduces score matching and its interaction with energy-based functions from a purely mathematical perspective. Additionally, we will also explore an important technique called denoising score matching, which can be used for time series denoising.</td>
+  </tr>
 </table>
 
 ## What's New
+[12/01/2024] "[Decoding the Logic of Score Matching: An Energy-Based Solution](https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Score%20matching.md)": A new tutorial about score matching, energy function, and **denoising score matching** (denoising autoencoder based). 
+
 [05/01/2024] In 2024, may your research flourish, ideas blossom, and every paper penned be a step toward brilliance and success.
 
 
