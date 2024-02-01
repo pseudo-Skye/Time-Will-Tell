@@ -39,7 +39,19 @@ Finally, lay down some NOTES for this repo:
     <th>Description</th>
   </tr>
   <tr>
-    <td rowspan="3">Financial Trading</td>
+    <td rowspan="4">Financial Trading</td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/Dva%20(CIKM%2023).md"> D-VA: Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction </a></td>
+    <td>2023, 2022</td>
+    <td>CIKM, NeuraIPS</td>
+    <td>D-VA focuses on predicting multi-step stock prices. It uses a deep hierarchical variational autoencoder combined with diffusion techniques to deal with noises in stock prices. </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/StockFormer.md"> StockFormer: Learning Hybrid Trading Machines with Predictive Coding  </a></td>
+    <td>2023</td>
+    <td>IJCAI</td>
+    <td>StockFormer is a hybrid trading machine that combines predictive coding and RL techniques to model multiple time series data in stock trading. </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/A%20Review%20of%20Deep%20Reinforcement%20Learning%20in%20Quantitative%20Algorithmic%20Trading.md">Review: Deep Reinforcement Learning in Quantitative Algorithmic Trading </a> </td>
     <td>2021</td>
     <td>ArXiv</td>
@@ -51,12 +63,7 @@ Finally, lay down some NOTES for this repo:
     <td>ICAIF</td>
     <td>FinRL is a powerful deep RL library designed to make quantitative finance and stock trading accessible to beginners while providing advanced capabilities for experienced practitioners.</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/StockFormer.md"> StockFormer: Learning Hybrid Trading Machines with Predictive Coding  </a></td>
-    <td>2023</td>
-    <td>IJCAI</td>
-    <td>StockFormer is a hybrid trading machine that combines predictive coding and RL techniques to model multiple time series data in stock trading. </td>
-  </tr>
+  
   <tr>
     <td rowspan="3">Anomaly Detection</td>
     <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/anomaly%20detection/Anomaly%20in%20TSAD%20Evaluation.md">The 'Anomaly' in TSAD Evaluation: How We’ve Been Getting It Wrong </a></td>
@@ -78,6 +85,12 @@ Finally, lay down some NOTES for this repo:
   </tr>
   <tr>
     <td rowspan="4">Series-ly Mathematical</td>
+    <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Score%20matching.md"> Decoding the Logic of Score Matching: An Energy-Based Solution </a></td>
+    <td>2024</td>
+    <td>Homemade</td>
+    <td>This article introduces score matching and its interaction with energy-based functions from a purely mathematical perspective. Additionally, we will also explore an important technique called denoising score matching, which can be used for time series denoising.</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/The%20Ultimate%20Guide%20to%20Fourier%20Transform.md">The Ultimate Guide to Fourier Transform: Learn from Scratch to Pro  </a></td>
     <td>2023</td>
     <td>Homemade</td>
@@ -95,15 +108,11 @@ Finally, lay down some NOTES for this repo:
     <td>Homemade</td>
     <td>This article introduces the fundamental concepts of variational autoencoder (VAE) from a probability model perspective. </td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Score%20matching.md"> Decoding the Logic of Score Matching: An Energy-Based Solution </a></td>
-    <td>2024</td>
-    <td>Homemade</td>
-    <td>This article introduces score matching and its interaction with energy-based functions from a purely mathematical perspective. Additionally, we will also explore an important technique called denoising score matching, which can be used for time series denoising.</td>
-  </tr>
 </table>
 
 ## What's New
+[01/02/2024] [D-VA: Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction](https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/Dva%20(CIKM%2023).md): A research paper tutorial talks about the **diffusion model** used in time series and its application in stock prediction. (CIKM 2023 and NeuraIPS 2022)
+
 [12/01/2024] "[Decoding the Logic of Score Matching: An Energy-Based Solution](https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Score%20matching.md)": A new tutorial about score matching, energy function, and **denoising score matching** (denoising autoencoder based). 
 
 [05/01/2024] In 2024, may your research flourish, ideas blossom, and every paper penned be a step toward brilliance and success.
