@@ -84,7 +84,13 @@ Finally, lay down some NOTES for this repo:
     <td>The article highlights time series discords as a popular method for practitioners due to its simplicity. It introduces MERLIN, an algorithm that can efficiently and exactly find discords of all lengths in massive time series archives. </td>
   </tr>
   <tr>
-    <td rowspan="4">Series-ly Mathematical</td>
+    <td rowspan="5">Series-ly Mathematical</td>
+    <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Information%20entropy.md#information-entropy"> Information Entropy </a></td>
+    <td>2024</td>
+    <td>Homemade</td>
+    <td>This article gives a detailed introduction to the information entropy and its relation with KL divergence.</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Score%20matching.md"> Decoding the Logic of Score Matching: An Energy-Based Solution </a></td>
     <td>2024</td>
     <td>Homemade</td>
@@ -111,6 +117,8 @@ Finally, lay down some NOTES for this repo:
 </table>
 
 ## What's New
+[22/04/2024] [Information Entropy](https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Information%20entropy.md): A detailed introduction of **information entropy** and its relation with **KL divergence**. Also, I've posted a new article on the [Evidence Lower Bound (ELBO)](https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Math%20ideas%20look-up%20dictionary.md#6-the-evidence-lower-bound-elbo) and its connections with **VAE** and **diffusion** models. Check it out for a deeper understanding of how information entropy, KL divergence, and these models all tie together! 
+
 [01/02/2024] [D-VA: Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction](https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/Dva%20(CIKM%2023).md): A research paper tutorial talks about the **diffusion model** used in time series and its application in stock prediction. (CIKM 2023 and NeuraIPS 2022)
 
 [12/01/2024] "[Decoding the Logic of Score Matching: An Energy-Based Solution](https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Score%20matching.md)": A new tutorial about score matching, energy function, and **denoising score matching** (denoising autoencoder based). 
