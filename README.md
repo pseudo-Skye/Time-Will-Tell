@@ -38,27 +38,33 @@ Finally, lay down some NOTES for this repo:
     <th>Source</th>
     <th>Description</th>
   </tr>
+   <tr>
+    <td rowspan="5">Financial Trading</td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Will-Tell/blob/main/financial%20trading/FTS-Diffusion%20(ICLR%202024).md"> Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns </a></td>
+    <td>2024</td>
+    <td>ICLR</td>
+    <td> FTS-Diffusion generates synthetic financial time series data from three angles: pattern, duration, and magnitude using diffusion-based network and Markov chain.  </td>
+  </tr>
   <tr>
-    <td rowspan="4">Financial Trading</td>
-    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/Dva%20(CIKM%2023).md"> D-VA: Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction </a></td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Will-Tell/blob/main/financial%20trading/Dva%20(CIKM%2023).md"> D-VA: Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction </a></td>
     <td>2023, 2022</td>
     <td>CIKM, NeuraIPS</td>
     <td>D-VA focuses on predicting multi-step stock prices. It uses a deep hierarchical variational autoencoder combined with diffusion techniques to deal with noises in stock prices. </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/StockFormer.md"> StockFormer: Learning Hybrid Trading Machines with Predictive Coding  </a></td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Will-Tell/blob/main/financial%20trading/StockFormer.md"> StockFormer: Learning Hybrid Trading Machines with Predictive Coding  </a></td>
     <td>2023</td>
     <td>IJCAI</td>
     <td>StockFormer is a hybrid trading machine that combines predictive coding and RL techniques to model multiple time series data in stock trading. </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/A%20Review%20of%20Deep%20Reinforcement%20Learning%20in%20Quantitative%20Algorithmic%20Trading.md">Review: Deep Reinforcement Learning in Quantitative Algorithmic Trading </a> </td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Will-Tell/blob/main/financial%20trading/A%20Review%20of%20Deep%20Reinforcement%20Learning%20in%20Quantitative%20Algorithmic%20Trading.md">Review: Deep Reinforcement Learning in Quantitative Algorithmic Trading </a> </td>
     <td>2021</td>
     <td>ArXiv</td>
     <td>This article reviews progress made so far of AI in automated low-frequency quantitative stock trading. Focus on trading agents created with deep reinforcement learning. </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/Python%20library%20FinRL.md"> FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance  </a></td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Will-Tell/blob/main/financial%20trading/Python%20library%20FinRL.md"> FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance  </a></td>
     <td>2021</td>
     <td>ICAIF</td>
     <td>FinRL is a powerful deep RL library designed to make quantitative finance and stock trading accessible to beginners while providing advanced capabilities for experienced practitioners.</td>
@@ -66,19 +72,19 @@ Finally, lay down some NOTES for this repo:
   
   <tr>
     <td rowspan="3">Anomaly Detection</td>
-    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/anomaly%20detection/Anomaly%20in%20TSAD%20Evaluation.md">The 'Anomaly' in TSAD Evaluation: How We’ve Been Getting It Wrong </a></td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Will-Tell/blob/main/anomaly%20detection/Anomaly%20in%20TSAD%20Evaluation.md">The 'Anomaly' in TSAD Evaluation: How We’ve Been Getting It Wrong </a></td>
     <td>2022</td>
     <td>AAAI, KDD</td>
     <td>The existing evaluation metrics for time series anomaly detection algorithms have limitations that can lead to misleading results. In this article, we will discuss the limitations of existing evaluation metrics and introduce the new evaluation metrics that address these limitations from the most recent publications. </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/anomaly%20detection/TFAD%20(CIKM%2022).md"> TFAD: A Decomposition Time Series Anomaly Detection Architecture with Time-Frequency Analysis  </a></td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Will-Tell/blob/main/anomaly%20detection/TFAD%20(CIKM%2022).md"> TFAD: A Decomposition Time Series Anomaly Detection Architecture with Time-Frequency Analysis  </a></td>
     <td>2022</td>
     <td>CIKM</td>
     <td>This work uses both time and frequency domains to improve performance, and it also use techniques like data augmentation and time series decomposition to make the model work better.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pseudo-Skye/Time-Matters/blob/main/anomaly%20detection/MERLIN%20(ICDM%2020).md"> MERLIN: Parameter-Free Discovery of Arbitrary Length Anomalies in Massive Time Series Archives  </a></td>
+    <td><a href="https://github.com/pseudo-Skye/Time-Will-Tell/blob/main/anomaly%20detection/MERLIN%20(ICDM%2020).md"> MERLIN: Parameter-Free Discovery of Arbitrary Length Anomalies in Massive Time Series Archives  </a></td>
     <td>2020</td>
     <td>ICDM</td>
     <td>The article highlights time series discords as a popular method for practitioners due to its simplicity. It introduces MERLIN, an algorithm that can efficiently and exactly find discords of all lengths in massive time series archives. </td>
@@ -117,9 +123,11 @@ Finally, lay down some NOTES for this repo:
 </table>
 
 ## What's New
+[19/07/2024] [FTS-Diffusion: Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns](https://github.com/pseudo-Skye/Time-Will-Tell/blob/main/financial%20trading/FTS-Diffusion%20(ICLR%202024).md): A research paper tutorial explains how to generate large amounts of financial time series data by using its characteristics of patterns, scale, and magnitude. It uses techniques like clustering, **diffusion**, and Markov chains.
+
 [22/04/2024] [Information Entropy](https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Information%20entropy.md): A detailed introduction of **information entropy** and its relation with **KL divergence**. Also, I've posted a new article on the [Evidence Lower Bound (ELBO)](https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Math%20ideas%20look-up%20dictionary.md#6-the-evidence-lower-bound-elbo) and its connections with **VAE** and **diffusion** models. Check it out for a deeper understanding of how information entropy, KL divergence, and these models all tie together! 
 
-[01/02/2024] [D-VA: Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction](https://github.com/pseudo-Skye/Time-Matters/blob/main/financial%20trading/Dva%20(CIKM%2023).md): A research paper tutorial talks about the **diffusion model** used in time series and its application in stock prediction. (CIKM 2023 and NeuraIPS 2022)
+[01/02/2024] [D-VA: Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction](https://github.com/pseudo-Skye/Time-Will-Tell/blob/main/financial%20trading/Dva%20(CIKM%2023).md): A research paper tutorial talks about the **diffusion model** used in time series and its application in stock prediction. (CIKM 2023 and NeuraIPS 2022)
 
 [12/01/2024] "[Decoding the Logic of Score Matching: An Energy-Based Solution](https://github.com/pseudo-Skye/Series-ly-Mathematical/blob/main/Score%20matching.md)": A new tutorial about score matching, energy function, and **denoising score matching** (denoising autoencoder based). 
 
