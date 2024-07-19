@@ -1,4 +1,4 @@
-# Time-Matters: A collection of tutorials covering the latest research in time series.
+# Time-Will-Tell: A collection of tutorials covering the latest research in time series.
 Before we start, let's read the following paragraph: 
 
 *"Within the context of domesticated pets, I harbor a distinct preference for the amiable and occasionally mysterious feline companions. The charming attributes inherent in these four-legged creatures evoke a deep sense of admiration and companionship within the depths of my personal preferences."*
